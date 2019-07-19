@@ -1,0 +1,6 @@
+Configure miss: icc
+Configure miss: suncc
+Configure miss: if compiler supports -R
+Configure miss: if debug is enabled
+Configure miss: if zts is enabled
+Configure miss: /builddir/build/BUILD/taint-2.0.5/taint.c:613:2: warning: format not a string literal and no format arguments [-Wformat-security]
