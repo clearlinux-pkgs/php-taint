@@ -4,7 +4,7 @@
 #
 Name     : php-taint
 Version  : 2.0.6
-Release  : 3
+Release  : 4
 URL      : https://pecl.php.net/get/taint-2.0.6.tgz
 Source0  : https://pecl.php.net/get/taint-2.0.6.tgz
 Summary  : No detailed summary available
@@ -45,4 +45,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20180731/taint.so
+/usr/lib64/extensions/no-debug-non-zts-20190902/taint.so
