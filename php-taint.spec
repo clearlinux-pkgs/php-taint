@@ -4,7 +4,7 @@
 #
 Name     : php-taint
 Version  : 2.0.6
-Release  : 5
+Release  : 6
 URL      : https://pecl.php.net/get/taint-2.0.6.tgz
 Source0  : https://pecl.php.net/get/taint-2.0.6.tgz
 Summary  : No detailed summary available
